@@ -33,6 +33,7 @@
 .post-thumb-wrapper {
   height: 50px;
   width: 50px;
+  margin: 0px 8px 0px 0px;
 }
 .post-thumb {
   height: 80%;
@@ -51,6 +52,7 @@
 }
 .like-number {
   width: 100px;
-  margin: 15px 0px;
-  font-size: 16px;
+  margin: 5px 0px;
+  font-size: 14px;
+  font-weight: bolder;
 }
