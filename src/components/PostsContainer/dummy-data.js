@@ -22,8 +22,8 @@ const dummyData = [
     },
     {
         username: "twitch",
-        thumbnailUrl: 'https://icon2.cleanpng.com/20180320/sqe/kisspng-twitch-computer-icons-streaming-media-youtube-live-tv-twitch-icon-5ab19172461392.001176751521586546287.jpg',
-        imageUrl: 'https://images.unsplash.com/photo-1566577134770-3d85bb3a9cc4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3750&q=80',
+        thumbnailUrl: 'https://banner2.cleanpng.com/20180210/ejw/kisspng-rocket-personal-statement-icon-rocket-5a7e7e023ebe27.459956101518239234257.jpg',
+        imageUrl: 'https://images.unsplash.com/photo-1440778303588-435521a205bc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60',
         likes: 4307,
         timestamp: "July 15th 2017, 03:12:09 pm",
         comments: [
